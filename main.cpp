@@ -19,6 +19,7 @@ if (!renderer) {
     SDL_Quit();
     return 1;
 }
+SDL_FRect rectangle = {100, 100, 200, 150};
 bool running = true;
 
 SDL_Event event; 
@@ -30,6 +31,10 @@ while (running) {
         }
         SDL_SetRenderDrawColor(renderer, 25, 55, 95, 255);
         SDL_RenderClear(renderer);
+
+        SDL_SetRenderDrawColor(renderer, 239, 156, 60, 255);
+        SDL_RenderFillRect(renderer, &rectangle);
+        
         SDL_RenderPresent(renderer);
     }
 
