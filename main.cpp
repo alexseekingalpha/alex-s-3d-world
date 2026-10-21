@@ -25,16 +25,27 @@ bool running = true;
 SDL_Event event; 
 
 while (running) {
-    while (SDL_PollEvent(&event))
+    while (SDL_PollEvent(&event)) {
     if (event.type == SDL_EVENT_QUIT) {
         running = false;
         }
+    }
+    const bool * keyboard = SDL_GetKeyboardState(nullptr);
+    if (keyboard[SDL_SCANCODE_D]) {
+        rectangle.x +=1;
+    }
+
+    if (keyboard[SDL_SCANCODE_A]) {
+        rectangle.x -= 1;
+    }
+
+
         SDL_SetRenderDrawColor(renderer, 25, 55, 95, 255);
         SDL_RenderClear(renderer);
 
         SDL_SetRenderDrawColor(renderer, 239, 156, 60, 255);
         SDL_RenderFillRect(renderer, &rectangle);
-        
+
         SDL_RenderPresent(renderer);
     }
 
