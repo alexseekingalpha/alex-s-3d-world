@@ -24,7 +24,15 @@ bool running = true;
 
 SDL_Event event; 
 
+float speed = 200.0f;
+
+Uint64 lastTime = SDL_GetTicks();
+
 while (running) {
+    Uint64 currentTime = SDL_GetTicks();
+    float deltaTime = (currentTime - lastTime) / 1000.0f;
+    lastTime = currentTime;
+
     while (SDL_PollEvent(&event)) {
     if (event.type == SDL_EVENT_QUIT) {
         running = false;
@@ -32,11 +40,19 @@ while (running) {
     }
     const bool * keyboard = SDL_GetKeyboardState(nullptr);
     if (keyboard[SDL_SCANCODE_D]) {
-        rectangle.x +=1;
+        rectangle.x += speed * deltaTime;
     }
 
     if (keyboard[SDL_SCANCODE_A]) {
-        rectangle.x -= 1;
+        rectangle.x -= speed * deltaTime;
+    }
+
+    if (keyboard[SDL_SCANCODE_W]) {
+        rectangle.y -= speed * deltaTime;
+    }
+
+    if (keyboard[SDL_SCANCODE_S]) {
+        rectangle.y += speed * deltaTime;
     }
 
 
