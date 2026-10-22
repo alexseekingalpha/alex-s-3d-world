@@ -1,4 +1,5 @@
 #include <SDL3/SDL.h>
+#include "player.h"
 
 int main () { 
     if (!SDL_Init(SDL_INIT_VIDEO)){
@@ -39,21 +40,7 @@ while (running) {
         }
     }
     const bool * keyboard = SDL_GetKeyboardState(nullptr);
-    if (keyboard[SDL_SCANCODE_D]) {
-        rectangle.x += speed * deltaTime;
-    }
-
-    if (keyboard[SDL_SCANCODE_A]) {
-        rectangle.x -= speed * deltaTime;
-    }
-
-    if (keyboard[SDL_SCANCODE_W]) {
-        rectangle.y -= speed * deltaTime;
-    }
-
-    if (keyboard[SDL_SCANCODE_S]) {
-        rectangle.y += speed * deltaTime;
-    }
+    movePLayer(rectangle, keyboard, speed, deltaTime);
 
 
         SDL_SetRenderDrawColor(renderer, 25, 55, 95, 255);
