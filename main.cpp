@@ -1,5 +1,6 @@
 #include <SDL3/SDL.h>
 #include "player.h"
+#include "renderer3d.h"
 
 int main () { 
     if (!SDL_Init(SDL_INIT_VIDEO)){
@@ -21,6 +22,9 @@ if (!renderer) {
     return 1;
 }
 SDL_FRect rectangle = {100, 100, 200, 150};
+Cube cube;
+float cubeAngle = 0.0f;
+
 bool running = true;
 
 SDL_Event event; 
@@ -34,6 +38,8 @@ while (running) {
     Uint64 currentTime = SDL_GetTicks();
     float deltaTime = (currentTime - lastTime) / 1000.0f;
     lastTime = currentTime;
+
+    cubeAngle += 1.0f * deltaTime;
 
     while (SDL_PollEvent(&event)) {
     if (event.type == SDL_EVENT_QUIT) {
@@ -49,6 +55,8 @@ while (running) {
 
         SDL_SetRenderDrawColor(renderer, 239, 156, 60, 255);
         SDL_RenderFillRect(renderer, &rectangle);
+
+        drawCube(renderer, cube, cubeAngle);
 
         SDL_RenderPresent(renderer);
     }
