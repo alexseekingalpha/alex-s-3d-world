@@ -26,6 +26,7 @@ bool running = true;
 SDL_Event event; 
 
 float speed = 200.0f;
+PlayerVelocity velocity;
 
 Uint64 lastTime = SDL_GetTicks();
 
@@ -40,7 +41,7 @@ while (running) {
         }
     }
     const bool * keyboard = SDL_GetKeyboardState(nullptr);
-    movePlayer(rectangle, keyboard, speed, deltaTime);
+    movePlayer(rectangle, keyboard, speed, deltaTime, velocity);
 
 
         SDL_SetRenderDrawColor(renderer, 25, 55, 95, 255);
