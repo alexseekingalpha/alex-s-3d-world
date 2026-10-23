@@ -1,6 +1,7 @@
 #include <SDL3/SDL.h>
 #include "player.h"
 #include "renderer3d.h"
+#include "camera.h"
 
 int main () { 
     if (!SDL_Init(SDL_INIT_VIDEO)){
@@ -23,6 +24,7 @@ if (!renderer) {
 }
 SDL_FRect rectangle = {100, 100, 200, 150};
 Cube cube;
+Camera camera;
 float cubeAngle = 0.0f;
 
 bool running = true;
@@ -46,17 +48,35 @@ while (running) {
         running = false;
         }
     }
+    
+    float cameraSpeed = 3.0f;
+
     const bool * keyboard = SDL_GetKeyboardState(nullptr);
-    movePlayer(rectangle, keyboard, speed, deltaTime, velocity);
+
+    if (keyboard[SDL_SCANCODE_W])
+        camera.position.z += cameraSpeed * deltaTime;
+
+    if (keyboard[SDL_SCANCODE_S])
+        camera.position.z -= cameraSpeed * deltaTime;
+
+    if (keyboard[SDL_SCANCODE_A])
+        camera.position.x -= cameraSpeed * deltaTime;
+    
+    if (keyboard[SDL_SCANCODE_D])
+        camera.position.x += cameraSpeed * deltaTime;
+        
+    if (camera.position.z > -3.0f)
+        camera.position.z = -3.0f;
+    //movePlayer(rectangle, keyboard, speed, deltaTime, velocity);
 
 
         SDL_SetRenderDrawColor(renderer, 25, 55, 95, 255);
         SDL_RenderClear(renderer);
 
-        SDL_SetRenderDrawColor(renderer, 239, 156, 60, 255);
-        SDL_RenderFillRect(renderer, &rectangle);
+        //SDL_SetRenderDrawColor(renderer, 239, 156, 60, 255);
+        //SDL_RenderFillRect(renderer, &rectangle);
 
-        drawCube(renderer, cube, cubeAngle);
+        drawCube(renderer, cube, cubeAngle, camera);
 
         SDL_RenderPresent(renderer);
     }
