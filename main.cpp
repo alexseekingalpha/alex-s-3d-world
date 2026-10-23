@@ -40,7 +40,7 @@ while (running) {
         }
     }
     const bool * keyboard = SDL_GetKeyboardState(nullptr);
-    movePLayer(rectangle, keyboard, speed, deltaTime);
+    movePlayer(rectangle, keyboard, speed, deltaTime);
 
 
         SDL_SetRenderDrawColor(renderer, 25, 55, 95, 255);
