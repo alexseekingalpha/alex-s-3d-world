@@ -9,6 +9,8 @@ void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camer
     SDL_FPoint screenPoints[8];
     bool visible[8];
 
+    Vector3 worldPoints[8];
+
     float depths[8];
 
     int width, height;
@@ -25,6 +27,8 @@ void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camer
             vertex.y,
             rotatedZ
         };
+
+        worldPoints[i] = rotatedVertex;
 
         float relativeX = rotatedVertex.x - camera.position.x;
         float relativeY = rotatedVertex.y - camera.position.y;
@@ -74,6 +78,14 @@ void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camer
         continue;
     }
 
+    Vector3 edge1 = subtract(worldPoints[b], worldPoints[a]);
+    Vector3 edge2 = subtract(worldPoints[c], worldPoints[a]);
+
+    Vector3 normal = normalize(crossProduct(edge1, edge2));
+    Vector3 lightDirection = normalize({1.0f, 1.0f, -1.0f});
+
+    float intensity = std::max(0.0f, dotProduct(normal, lightDirection));
+
     float abX = screenPoints[b].x - screenPoints[a].x;
     float abY = screenPoints[b].y - screenPoints[a].y;
 
@@ -86,7 +98,7 @@ void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camer
         continue;
     }
 
-    float brightness = 0.4f + (triangleIndex / 2) * 0.1f;
+    float brightness = 0.2f + intensity * 0.8f;
 
     SDL_FColor colour = {
         0.2f * brightness,
