@@ -2,6 +2,7 @@
 #include "player.h"
 #include "renderer3d.h"
 #include "camera.h"
+#include "floor.h"
 
 int main () { 
     if (!SDL_Init(SDL_INIT_VIDEO)){
@@ -65,8 +66,7 @@ while (running) {
     if (keyboard[SDL_SCANCODE_D])
         camera.position.x += cameraSpeed * deltaTime;
         
-    if (camera.position.z > -3.0f)
-        camera.position.z = -3.0f;
+
     //movePlayer(rectangle, keyboard, speed, deltaTime, velocity);
 
 
@@ -75,7 +75,7 @@ while (running) {
 
         //SDL_SetRenderDrawColor(renderer, 239, 156, 60, 255);
         //SDL_RenderFillRect(renderer, &rectangle);
-
+        drawFloor(renderer, camera);
         drawCube(renderer, cube, cubeAngle, camera);
 
         SDL_RenderPresent(renderer);

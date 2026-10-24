@@ -1,10 +1,10 @@
 #include "renderer3d.h"
 #include <cmath>
+#include "projection.h"
 
 void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camera& camera) {
 
-    float screenX[8];
-    float screenY[8];
+    SDL_FPoint screenPoints[8];
     bool visible[8];
 
     int width, height;
@@ -16,20 +16,19 @@ void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camer
         float rotatedX = vertex.x * std::cos(angle) - vertex.z * std::sin(angle);
         float rotatedZ = vertex.x * std::sin(angle) + vertex.z * std::cos(angle);
 
-        float relativeX = rotatedX - camera.position.x;
-        float relativeY = vertex.y - camera.position.y;
-        float relativeZ = rotatedZ - camera.position.z;
+        Vector3 rotatedVertex = {
+            rotatedX,
+            vertex.y,
+            rotatedZ
+        };
 
-        visible[i] = relativeZ > 0.1f;
-
-        if (!visible[i]) {
-            continue;
-        }
-
-        float scale = 300.0f / relativeZ;
-
-        screenX[i] = width / 2.0f + relativeX * scale;
-        screenY[i] = height / 2.0f - relativeY * scale;
+        visible[i] = projectPoint(
+            rotatedVertex,
+            camera,
+            width,
+            height,
+            screenPoints[i]
+        );
     
     }
 
@@ -45,8 +44,10 @@ void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camer
 
         SDL_RenderLine(
             renderer,
-            screenX[start], screenY[start],
-            screenX[end], screenY[end]
+            screenPoints[start].x,
+            screenPoints[start].y,
+            screenPoints[end].x,
+            screenPoints[end].y
         );
-    }
+    };
 }
