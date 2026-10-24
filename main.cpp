@@ -126,7 +126,11 @@ while (running) {
         //SDL_SetRenderDrawColor(renderer, 239, 156, 60, 255);
         //SDL_RenderFillRect(renderer, &rectangle);
         drawFloor(renderer, camera);
-        drawCube(renderer, cube, cubeAngle, camera);
+
+        Vector3 cubePosition = {5.0f, 0.0f, 0.0f};
+
+        drawCube(renderer, cube, cubeAngle, camera, cubePosition);
+        drawCube(renderer, cube, cubeAngle, camera,{0.0f, 0.0f, 8.0f} );
 
         SDL_RenderPresent(renderer);
     }
