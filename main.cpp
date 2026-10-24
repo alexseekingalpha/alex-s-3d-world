@@ -28,6 +28,8 @@ SDL_FRect rectangle = {100, 100, 200, 150};
 Cube cube;
 Camera camera;
 float cubeAngle = 0.0f;
+float cubeAngle2 = 0.0f;
+
 SDL_SetWindowRelativeMouseMode(window, true);
 
 bool running = true;
@@ -45,6 +47,7 @@ while (running) {
     lastTime = currentTime;
 
     cubeAngle += 1.0f * deltaTime;
+    cubeAngle2 += 1.0f * deltaTime;
 
     while (SDL_PollEvent(&event)) {
     if (event.type == SDL_EVENT_QUIT) {
@@ -130,7 +133,7 @@ while (running) {
         Vector3 cubePosition = {5.0f, 0.0f, 0.0f};
 
         drawCube(renderer, cube, cubeAngle, camera, cubePosition);
-        drawCube(renderer, cube, cubeAngle, camera,{0.0f, 0.0f, 8.0f} );
+        drawCube(renderer, cube, 0.0f, camera,{0.0f, 0.0f, 8.0f} );
 
         SDL_RenderPresent(renderer);
     }
