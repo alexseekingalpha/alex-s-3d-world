@@ -136,11 +136,16 @@ while (running) {
 
     float distance = std::sqrt(dx * dx + dz * dz);
 
-    if (currentLevel == 1 && distance < 1.5f) {
+    if (distance < 1.5f) {
+        if (currentLevel == 1 && distance < 1.5f) {
         currentLevel = 2;
         camera.position = {0.0f, 0.0f, -5.0f};
     }
-        
+    else if (currentLevel == 2) {
+        currentLevel = 1;
+        camera.position = {0.0f, 0.0f, -5.0f};
+    }
+        }         
 
     //movePlayer(rectangle, keyboard, speed, deltaTime, velocity);
 
