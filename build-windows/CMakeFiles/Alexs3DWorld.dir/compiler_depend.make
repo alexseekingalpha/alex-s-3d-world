@@ -1172,6 +1172,34 @@ CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsof
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstddef"
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdint"
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\projection.h
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\algorithm"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_heap_algorithms.hpp"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xutility"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_iter_core.hpp"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\initializer_list"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\compare"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\concepts"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\climits"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstring"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cwchar"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdio"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdio.h"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_int128.hpp"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_bit_utils.hpp"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\limits"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cfloat"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\float.h"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_minmax.hpp"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xmemory"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\new"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\exception"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_exception.h"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\eh.h"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_terminate.h"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xatomic.h"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\numeric"
 
 
 
@@ -1204,6 +1232,8 @@ C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL.h:
 C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_platform_defines.h:
 
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\setjmp.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_heap_algorithms.hpp":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared\winapifamily.h":
 
@@ -1274,6 +1304,8 @@ C:\Users\Alex\Documents\alex-s-3d-world\camera.h:
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h":
 
 C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_error.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_int128.hpp":
 
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\stdint.h":
 
@@ -1387,6 +1419,8 @@ C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_metal.h:
 
 C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_misc.h:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdio.h":
+
 C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_process.h:
 
 C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_render.h:
@@ -1413,6 +1447,8 @@ C:\Users\Alex\Documents\alex-s-3d-world\player.h:
 
 C:\Users\Alex\Documents\alex-s-3d-world\renderer3d.h:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xatomic.h":
+
 C:\Users\Alex\Documents\alex-s-3d-world\cube.h:
 
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cmath":
@@ -1422,6 +1458,8 @@ C:\Users\Alex\Documents\alex-s-3d-world\cube.h:
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals_core.h":
 
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xkeycheck.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cfloat":
 
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_doom_core.hpp":
 
@@ -1449,6 +1487,8 @@ C:\Users\Alex\Documents\alex-s-3d-world\cube.h:
 
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstddef":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_bit_utils.hpp":
+
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdint":
 
 C:\Users\Alex\Documents\alex-s-3d-world\player.cpp:
@@ -1456,3 +1496,47 @@ C:\Users\Alex\Documents\alex-s-3d-world\player.cpp:
 C:\Users\Alex\Documents\alex-s-3d-world\projection.cpp:
 
 C:\Users\Alex\Documents\alex-s-3d-world\renderer3d.cpp:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\algorithm":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xutility":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_iter_core.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\utility":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\initializer_list":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\compare":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\concepts":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\climits":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstring":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cwchar":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdio":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\limits":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\float.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_minmax.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xmemory":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\new":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\exception":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_exception.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\eh.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_terminate.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tuple":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\numeric":

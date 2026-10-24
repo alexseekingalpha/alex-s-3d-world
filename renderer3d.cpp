@@ -1,11 +1,15 @@
 #include "renderer3d.h"
 #include <cmath>
 #include "projection.h"
+#include <algorithm>
+#include <numeric> 
 
 void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camera& camera) {
 
     SDL_FPoint screenPoints[8];
     bool visible[8];
+
+    float depths[8];
 
     int width, height;
     SDL_GetRenderOutputSize(renderer, &width, &height);
@@ -22,6 +26,16 @@ void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camer
             rotatedZ
         };
 
+        float relativeX = rotatedVertex.x - camera.position.x;
+        float relativeY = rotatedVertex.y - camera.position.y;
+        float relativeZ = rotatedVertex.z - camera.position.z;
+
+        float yawZ = relativeX * std::sin(camera.yaw)
+        + relativeZ * std::cos(camera.yaw);
+
+        depths[i] = relativeY * std::sin(camera.pitch)
+                    + yawZ * std::cos(camera.pitch);
+
         visible[i] = projectPoint(
             rotatedVertex,
             camera,
@@ -31,6 +45,67 @@ void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camer
         );
     
     }
+
+    int triangleOrder[12];
+
+    std::iota(triangleOrder, triangleOrder + 12, 0);
+
+    std::sort(triangleOrder, triangleOrder + 12, [&](int first, int second) {
+        auto averageDepth = [&](int triangleIndex) {
+            int a = cube.triangles[triangleIndex][0];
+            int b = cube.triangles[triangleIndex][1];
+            int c = cube.triangles[triangleIndex][2];
+
+            return (depths[a] + depths[b] + depths[c]) / 3.0f;
+        };
+        
+        return averageDepth(first) > averageDepth(second);
+    });
+
+    // coloured triangles
+    for (int i = 0; i < 12; i++) {
+        int triangleIndex = triangleOrder[i];
+
+        int a = cube.triangles[triangleIndex][0];
+        int b = cube.triangles[triangleIndex][1];
+        int c = cube.triangles[triangleIndex][2];
+
+    if(!visible[a] || !visible[b] || !visible[c]) {
+        continue;
+    }
+
+    float abX = screenPoints[b].x - screenPoints[a].x;
+    float abY = screenPoints[b].y - screenPoints[a].y;
+
+    float acX = screenPoints[c].x - screenPoints[a].x;
+    float acY = screenPoints[c].y - screenPoints[a].y;
+
+    float signedArea = abX * acY - abY * acX;
+
+    if (signedArea >= 0.0f) {
+        continue;
+    }
+
+    float brightness = 0.4f + (triangleIndex / 2) * 0.1f;
+
+    SDL_FColor colour = {
+        0.2f * brightness,
+        0.6f * brightness,
+        1.0f * brightness,
+        1.0f
+    };
+
+    SDL_Vertex triangle[3] = {
+        {screenPoints[a], colour, {0.0f, 0.0f}},
+        {screenPoints[b], colour, {0.0f, 0.0f}},
+        {screenPoints[c], colour, {0.0f, 0.0f}}
+    };
+
+    SDL_RenderGeometry(renderer, nullptr, triangle, 3, nullptr, 0);
+
+    }
+    
+    return;
 
     SDL_SetRenderDrawColor(renderer, 255, 255, 255, 255);
 
