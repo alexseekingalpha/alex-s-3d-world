@@ -28,5 +28,17 @@
   "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\Alex\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\Alexs3DWorld.dir\\projection.cpp.obj /FdCMakeFiles\\Alexs3DWorld.dir\\ /FS -c C:\\Users\\Alex\\Documents\\alex-s-3d-world\\projection.cpp",
   "file": "C:/Users/Alex/Documents/alex-s-3d-world/projection.cpp",
   "output": "CMakeFiles/Alexs3DWorld.dir/projection.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alex/Documents/alex-s-3d-world/build-windows",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\Alex\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\Alexs3DWorld.dir\\level1.cpp.obj /FdCMakeFiles\\Alexs3DWorld.dir\\ /FS -c C:\\Users\\Alex\\Documents\\alex-s-3d-world\\level1.cpp",
+  "file": "C:/Users/Alex/Documents/alex-s-3d-world/level1.cpp",
+  "output": "CMakeFiles/Alexs3DWorld.dir/level1.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alex/Documents/alex-s-3d-world/build-windows",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\Alex\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\Alexs3DWorld.dir\\level2.cpp.obj /FdCMakeFiles\\Alexs3DWorld.dir\\ /FS -c C:\\Users\\Alex\\Documents\\alex-s-3d-world\\level2.cpp",
+  "file": "C:/Users/Alex/Documents/alex-s-3d-world/level2.cpp",
+  "output": "CMakeFiles/Alexs3DWorld.dir/level2.cpp.obj"
 }
 ]

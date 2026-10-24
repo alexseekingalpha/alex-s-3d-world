@@ -5,6 +5,7 @@
 #include "floor.h"
 #include "level1.h"
 #include "level2.h"
+#include "level.h"
 #include <cmath>
 
 int main () { 
@@ -33,6 +34,11 @@ float cubeAngle = 0.0f;
 float cubeAngle2 = 0.0f;
 
 int currentLevel = 1;
+
+Level levels[] = {
+    {{25, 55, 95, 255}},
+    {{130, 35, 45, 255}}
+};
 
 SDL_SetWindowRelativeMouseMode(window, true);
 
@@ -122,12 +128,26 @@ while (running) {
 
     camera.position.x += moveX * cameraSpeed * deltaTime;
     camera.position.z += moveZ * cameraSpeed * deltaTime;
+
+    Vector3 portalPosition = {0.0f, 0.0f, 5.0f};
+
+    float dx = camera.position.x - portalPosition.x;
+    float dz = camera.position.z - portalPosition.z;
+
+    float distance = std::sqrt(dx * dx + dz * dz);
+
+    if (currentLevel == 1 && distance < 1.5f) {
+        currentLevel = 2;
+        camera.position = {0.0f, 0.0f, -5.0f};
+    }
         
 
     //movePlayer(rectangle, keyboard, speed, deltaTime, velocity);
 
 
-        SDL_SetRenderDrawColor(renderer, 25, 55, 95, 255);
+        SDL_Color color = levels[currentLevel -1].backgroundColor;
+
+        SDL_SetRenderDrawColor(renderer, color.r, color.g, color.b, color.a);
         SDL_RenderClear(renderer);
 
         //SDL_SetRenderDrawColor(renderer, 239, 156, 60, 255);

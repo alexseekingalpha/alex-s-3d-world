@@ -161,13 +161,55 @@ CMakeFiles\Alexs3DWorld.dir\projection.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Alexs3DWorld.dir\projection.cpp.s /c C:\Users\Alex\Documents\alex-s-3d-world\projection.cpp
 <<
 
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: CMakeFiles\Alexs3DWorld.dir\flags.make
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\level1.cpp
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: CMakeFiles\Alexs3DWorld.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alex\Documents\alex-s-3d-world\build-windows\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Alexs3DWorld.dir/level1.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj.d --working-dir=C:\Users\Alex\Documents\alex-s-3d-world\build-windows --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~2\18\BUILDT~1\VC\Tools\MSVC\1451~1.362\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Alexs3DWorld.dir\level1.cpp.obj /FdCMakeFiles\Alexs3DWorld.dir\ /FS -c C:\Users\Alex\Documents\alex-s-3d-world\level1.cpp
+<<
+
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Alexs3DWorld.dir/level1.cpp.i"
+	C:\PROGRA~2\MICROS~2\18\BUILDT~1\VC\Tools\MSVC\1451~1.362\bin\Hostx64\x64\cl.exe > CMakeFiles\Alexs3DWorld.dir\level1.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alex\Documents\alex-s-3d-world\level1.cpp
+<<
+
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Alexs3DWorld.dir/level1.cpp.s"
+	C:\PROGRA~2\MICROS~2\18\BUILDT~1\VC\Tools\MSVC\1451~1.362\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Alexs3DWorld.dir\level1.cpp.s /c C:\Users\Alex\Documents\alex-s-3d-world\level1.cpp
+<<
+
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: CMakeFiles\Alexs3DWorld.dir\flags.make
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\level2.cpp
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: CMakeFiles\Alexs3DWorld.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alex\Documents\alex-s-3d-world\build-windows\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Alexs3DWorld.dir/level2.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj.d --working-dir=C:\Users\Alex\Documents\alex-s-3d-world\build-windows --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~2\18\BUILDT~1\VC\Tools\MSVC\1451~1.362\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Alexs3DWorld.dir\level2.cpp.obj /FdCMakeFiles\Alexs3DWorld.dir\ /FS -c C:\Users\Alex\Documents\alex-s-3d-world\level2.cpp
+<<
+
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Alexs3DWorld.dir/level2.cpp.i"
+	C:\PROGRA~2\MICROS~2\18\BUILDT~1\VC\Tools\MSVC\1451~1.362\bin\Hostx64\x64\cl.exe > CMakeFiles\Alexs3DWorld.dir\level2.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alex\Documents\alex-s-3d-world\level2.cpp
+<<
+
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Alexs3DWorld.dir/level2.cpp.s"
+	C:\PROGRA~2\MICROS~2\18\BUILDT~1\VC\Tools\MSVC\1451~1.362\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Alexs3DWorld.dir\level2.cpp.s /c C:\Users\Alex\Documents\alex-s-3d-world\level2.cpp
+<<
+
 # Object files for target Alexs3DWorld
 Alexs3DWorld_OBJECTS = \
 "CMakeFiles\Alexs3DWorld.dir\main.cpp.obj" \
 "CMakeFiles\Alexs3DWorld.dir\player.cpp.obj" \
 "CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj" \
 "CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj" \
-"CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj"
+"CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj" \
+"CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj" \
+"CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj"
 
 # External object files for target Alexs3DWorld
 Alexs3DWorld_EXTERNAL_OBJECTS =
@@ -177,10 +219,12 @@ Alexs3DWorld.exe: CMakeFiles\Alexs3DWorld.dir\player.cpp.obj
 Alexs3DWorld.exe: CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj
 Alexs3DWorld.exe: CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj
 Alexs3DWorld.exe: CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj
+Alexs3DWorld.exe: CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj
+Alexs3DWorld.exe: CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj
 Alexs3DWorld.exe: CMakeFiles\Alexs3DWorld.dir\build.make
 Alexs3DWorld.exe: C:\Users\Alex\vcpkg\installed\x64-windows\debug\lib\SDL3.lib
 Alexs3DWorld.exe: CMakeFiles\Alexs3DWorld.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Alex\Documents\alex-s-3d-world\build-windows\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Alexs3DWorld.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Alex\Documents\alex-s-3d-world\build-windows\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Alexs3DWorld.exe"
 	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --msvc-ver=1951 --intdir=CMakeFiles\Alexs3DWorld.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100261~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100261~1.0\x64\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\18\BUILDT~1\VC\Tools\MSVC\1451~1.362\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\Alexs3DWorld.dir\objects1.rsp @<<
  /out:Alexs3DWorld.exe /implib:Alexs3DWorld.lib /pdb:C:\Users\Alex\Documents\alex-s-3d-world\build-windows\Alexs3DWorld.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console  C:\Users\Alex\vcpkg\installed\x64-windows\debug\lib\SDL3.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

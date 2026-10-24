@@ -74,12 +74,12 @@ clean: CMakeFiles\Alexs3DWorld.dir\clean
 CMakeFiles\Alexs3DWorld.dir\all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Alexs3DWorld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Alexs3DWorld.dir\depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Alexs3DWorld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Alexs3DWorld.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alex\Documents\alex-s-3d-world\build-windows\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target Alexs3DWorld"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alex\Documents\alex-s-3d-world\build-windows\CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target Alexs3DWorld"
 .PHONY : CMakeFiles\Alexs3DWorld.dir\all
 
 # Build rule for subdir invocation for target.
 CMakeFiles\Alexs3DWorld.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alex\Documents\alex-s-3d-world\build-windows\CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alex\Documents\alex-s-3d-world\build-windows\CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\Alexs3DWorld.dir\all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alex\Documents\alex-s-3d-world\build-windows\CMakeFiles 0
 .PHONY : CMakeFiles\Alexs3DWorld.dir\rule
@@ -91,7 +91,7 @@ Alexs3DWorld: CMakeFiles\Alexs3DWorld.dir\rule
 # codegen rule for target.
 CMakeFiles\Alexs3DWorld.dir\codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Alexs3DWorld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Alexs3DWorld.dir\codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alex\Documents\alex-s-3d-world\build-windows\CMakeFiles --progress-num=1,2,3,4,5,6 "Finished codegen for target Alexs3DWorld"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alex\Documents\alex-s-3d-world\build-windows\CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Finished codegen for target Alexs3DWorld"
 .PHONY : CMakeFiles\Alexs3DWorld.dir\codegen
 
 # clean rule for target.

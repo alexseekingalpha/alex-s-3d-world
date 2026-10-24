@@ -213,8 +213,6 @@ C:/Users/Alex/Documents/alex-s-3d-world/player.h
 C:/Users/Alex/Documents/alex-s-3d-world/renderer3d.h
 C:/Users/Alex/Documents/alex-s-3d-world/cube.h
 C:/Users/Alex/Documents/alex-s-3d-world/vector3.h
-C:/Users/Alex/Documents/alex-s-3d-world/camera.h
-C:/Users/Alex/Documents/alex-s-3d-world/floor.h
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/cmath
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/yvals.h
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/yvals_core.h
@@ -236,3 +234,8 @@ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/type_traits
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/cstddef
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/cstdint
+C:/Users/Alex/Documents/alex-s-3d-world/camera.h
+C:/Users/Alex/Documents/alex-s-3d-world/floor.h
+C:/Users/Alex/Documents/alex-s-3d-world/level1.h
+C:/Users/Alex/Documents/alex-s-3d-world/level2.h
+C:/Users/Alex/Documents/alex-s-3d-world/level.h

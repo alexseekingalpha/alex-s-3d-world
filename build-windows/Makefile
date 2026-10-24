@@ -142,6 +142,54 @@ floor.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Alexs3DWorld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Alexs3DWorld.dir\floor.cpp.s
 .PHONY : floor.cpp.s
 
+level1.obj: level1.cpp.obj
+.PHONY : level1.obj
+
+# target to build an object file
+level1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Alexs3DWorld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj
+.PHONY : level1.cpp.obj
+
+level1.i: level1.cpp.i
+.PHONY : level1.i
+
+# target to preprocess a source file
+level1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Alexs3DWorld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Alexs3DWorld.dir\level1.cpp.i
+.PHONY : level1.cpp.i
+
+level1.s: level1.cpp.s
+.PHONY : level1.s
+
+# target to generate assembly for a file
+level1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Alexs3DWorld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Alexs3DWorld.dir\level1.cpp.s
+.PHONY : level1.cpp.s
+
+level2.obj: level2.cpp.obj
+.PHONY : level2.obj
+
+# target to build an object file
+level2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Alexs3DWorld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj
+.PHONY : level2.cpp.obj
+
+level2.i: level2.cpp.i
+.PHONY : level2.i
+
+# target to preprocess a source file
+level2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Alexs3DWorld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Alexs3DWorld.dir\level2.cpp.i
+.PHONY : level2.cpp.i
+
+level2.s: level2.cpp.s
+.PHONY : level2.s
+
+# target to generate assembly for a file
+level2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Alexs3DWorld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Alexs3DWorld.dir\level2.cpp.s
+.PHONY : level2.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -250,6 +298,12 @@ help:
 	@echo ... floor.obj
 	@echo ... floor.i
 	@echo ... floor.s
+	@echo ... level1.obj
+	@echo ... level1.i
+	@echo ... level1.s
+	@echo ... level2.obj
+	@echo ... level2.i
+	@echo ... level2.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

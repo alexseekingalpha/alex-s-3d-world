@@ -212,7 +212,6 @@ C:/Users/Alex/vcpkg/installed/x64-windows/include/SDL3/SDL_close_code.h
 C:/Users/Alex/vcpkg/installed/x64-windows/include/SDL3/SDL_oldnames.h
 C:/Users/Alex/Documents/alex-s-3d-world/cube.h
 C:/Users/Alex/Documents/alex-s-3d-world/vector3.h
-C:/Users/Alex/Documents/alex-s-3d-world/camera.h
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/cmath
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/yvals.h
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/yvals_core.h
@@ -234,6 +233,7 @@ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/type_traits
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/cstddef
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/cstdint
+C:/Users/Alex/Documents/alex-s-3d-world/camera.h
 C:/Users/Alex/Documents/alex-s-3d-world/projection.h
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/algorithm
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.51.36231/include/__msvc_heap_algorithms.hpp

@@ -9,6 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Alex/Documents/alex-s-3d-world/floor.cpp" "CMakeFiles/Alexs3DWorld.dir/floor.cpp.obj" "msvc" "CMakeFiles/Alexs3DWorld.dir/floor.cpp.obj.d"
+  "C:/Users/Alex/Documents/alex-s-3d-world/level1.cpp" "CMakeFiles/Alexs3DWorld.dir/level1.cpp.obj" "msvc" "CMakeFiles/Alexs3DWorld.dir/level1.cpp.obj.d"
+  "C:/Users/Alex/Documents/alex-s-3d-world/level2.cpp" "CMakeFiles/Alexs3DWorld.dir/level2.cpp.obj" "msvc" "CMakeFiles/Alexs3DWorld.dir/level2.cpp.obj.d"
   "C:/Users/Alex/Documents/alex-s-3d-world/main.cpp" "CMakeFiles/Alexs3DWorld.dir/main.cpp.obj" "msvc" "CMakeFiles/Alexs3DWorld.dir/main.cpp.obj.d"
   "C:/Users/Alex/Documents/alex-s-3d-world/player.cpp" "CMakeFiles/Alexs3DWorld.dir/player.cpp.obj" "msvc" "CMakeFiles/Alexs3DWorld.dir/player.cpp.obj.d"
   "C:/Users/Alex/Documents/alex-s-3d-world/projection.cpp" "CMakeFiles/Alexs3DWorld.dir/projection.cpp.obj" "msvc" "CMakeFiles/Alexs3DWorld.dir/projection.cpp.obj.d"

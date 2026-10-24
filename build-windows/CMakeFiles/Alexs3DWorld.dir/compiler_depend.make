@@ -216,7 +216,508 @@ CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-win
 CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_oldnames.h
 CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\camera.h
 CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\vector3.h
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cmath"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals_core.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xkeycheck.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_doom_core.hpp"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\crtdbg.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_new_debug.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_new.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\crtdefs.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\use_ansi.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdlib"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\limits.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xtr1common"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\intrin0.h"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\type_traits"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstddef"
+CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdint"
 CMakeFiles\Alexs3DWorld.dir\floor.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\projection.h
+
+
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\level1.cpp
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\renderer3d.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_stdinc.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_platform_defines.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared\winapifamily.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared\winpackagefamily.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\stdarg.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\sal.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\concurrencysal.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vadefs.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\string.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memory.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\errno.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_string.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstring.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\wchar.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wconio.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wctype.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wio.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_share.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wprocess.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wtime.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\stat.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\types.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\intrin.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\intrin0.inl.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\setjmp.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\immintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\wmmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\nmmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\smmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tmmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\pmmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\emmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xmmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\mmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\malloc.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\zmmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\ammintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\stdint.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_assert.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_asyncio.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_atomic.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_audio.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_endian.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_error.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_mutex.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_thread.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_properties.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\process.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_startup.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_math.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_startup.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_iostream.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_bits.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_blendmode.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_camera.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_pixels.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_surface.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_rect.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_clipboard.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_cpuinfo.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_dialog.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_video.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_dlopennote.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_events.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_gamepad.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_guid.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_joystick.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_power.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_sensor.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_keyboard.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_keycode.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_scancode.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_mouse.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_pen.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_touch.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_filesystem.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_gpu.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_haptic.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_hidapi.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_hints.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_init.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_loadso.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_locale.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_log.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_messagebox.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_metal.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_misc.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_platform.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_process.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_render.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_storage.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_system.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_time.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_timer.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_tray.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_version.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_oldnames.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\cube.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\vector3.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cmath"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals_core.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xkeycheck.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_doom_core.hpp"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\crtdbg.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_new_debug.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_new.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\crtdefs.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\use_ansi.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdlib"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\limits.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xtr1common"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\intrin0.h"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\type_traits"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstddef"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdint"
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\camera.h
+CMakeFiles\Alexs3DWorld.dir\level1.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\level1.h
+
+
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\level2.cpp
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\renderer3d.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_stdinc.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_platform_defines.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared\winapifamily.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared\winpackagefamily.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\stdarg.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\sal.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\concurrencysal.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vadefs.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\string.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memory.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\errno.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_string.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstring.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\wchar.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wconio.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wctype.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wio.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_share.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wprocess.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wtime.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\stat.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\types.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\intrin.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\intrin0.inl.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\setjmp.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\immintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\wmmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\nmmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\smmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\tmmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\pmmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\emmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xmmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\mmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\malloc.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\zmmintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\ammintrin.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\stdint.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_assert.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_asyncio.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_atomic.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_audio.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_endian.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_error.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_mutex.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_thread.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_properties.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\process.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_startup.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_math.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_startup.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_iostream.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_bits.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_blendmode.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_camera.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_pixels.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_surface.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_rect.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_clipboard.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_cpuinfo.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_dialog.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_video.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_dlopennote.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_events.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_gamepad.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_guid.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_joystick.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_power.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_sensor.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_keyboard.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_keycode.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_scancode.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_mouse.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_pen.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_touch.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_filesystem.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_gpu.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_haptic.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_hidapi.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_hints.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_init.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_loadso.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_locale.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_log.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_messagebox.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_metal.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_misc.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_platform.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_process.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_render.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_storage.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_system.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_time.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_timer.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_tray.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_version.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_oldnames.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\cube.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\vector3.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cmath"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals_core.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xkeycheck.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_doom_core.hpp"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\crtdbg.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_new_debug.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_new.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\crtdefs.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\use_ansi.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdlib"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\limits.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xtr1common"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\intrin0.h"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\type_traits"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstddef"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdint"
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\camera.h
+CMakeFiles\Alexs3DWorld.dir\level2.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\level2.h
 
 
 CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\main.cpp
@@ -435,8 +936,6 @@ CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-worl
 CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\renderer3d.h
 CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\cube.h
 CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\vector3.h
-CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\camera.h
-CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\floor.h
 CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cmath"
 CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals.h"
 CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals_core.h"
@@ -458,6 +957,11 @@ CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visu
 CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\type_traits"
 CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstddef"
 CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdint"
+CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\camera.h
+CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\floor.h
+CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\level1.h
+CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\level2.h
+CMakeFiles\Alexs3DWorld.dir\main.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\level.h
 
 
 CMakeFiles\Alexs3DWorld.dir\player.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\player.cpp
@@ -699,6 +1203,37 @@ CMakeFiles\Alexs3DWorld.dir\player.cpp.obj: "C:\Program Files (x86)\Microsoft Vi
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\projection.cpp
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\projection.h
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\vector3.h
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cmath"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals_core.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\sal.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\concurrencysal.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vadefs.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xkeycheck.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_doom_core.hpp"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\crtdbg.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_new_debug.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_new.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\crtdefs.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\use_ansi.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdlib"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_math.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\limits.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xtr1common"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\intrin0.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\intrin0.inl.h"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\type_traits"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstddef"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdint"
+CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\stdint.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\camera.h
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL.h
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_stdinc.h
@@ -706,12 +1241,7 @@ CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\vcpkg\installed\x6
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared\winapifamily.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared\winpackagefamily.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\stdarg.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\sal.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\concurrencysal.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vadefs.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\string.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memory.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memcpy_s.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\errno.h"
@@ -726,12 +1256,10 @@ CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows 
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_share.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wprocess.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdio.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wtime.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\stat.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\types.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\intrin.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\intrin0.inl.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\setjmp.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\immintrin.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\wmmintrin.h"
@@ -743,10 +1271,8 @@ CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsof
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xmmintrin.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\mmintrin.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\malloc.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\zmmintrin.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\ammintrin.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\stdint.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_assert.h
@@ -773,7 +1299,6 @@ CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\vcpkg\installed\x6
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\process.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_startup.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_math.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_startup.h"
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
@@ -911,27 +1436,6 @@ CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\vcpkg\installed\x6
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_close_code.h
 CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_oldnames.h
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cmath"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals_core.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xkeycheck.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_doom_core.hpp"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\crtdbg.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_new_debug.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\vcruntime_new.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\crtdefs.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\use_ansi.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdlib"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\limits.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xtr1common"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\intrin0.h"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\type_traits"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstddef"
-CMakeFiles\Alexs3DWorld.dir\projection.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdint"
 
 
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\renderer3d.cpp
@@ -1149,7 +1653,6 @@ CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: C:\Users\Alex\vcpkg\installed\x6
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_oldnames.h
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\cube.h
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\vector3.h
-CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\camera.h
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cmath"
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals.h"
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals_core.h"
@@ -1171,6 +1674,7 @@ CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsof
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\type_traits"
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstddef"
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdint"
+CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\camera.h
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: C:\Users\Alex\Documents\alex-s-3d-world\projection.h
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\algorithm"
 CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_heap_algorithms.hpp"
@@ -1208,6 +1712,8 @@ CMakeFiles\Alexs3DWorld.dir\renderer3d.cpp.obj: "C:\Program Files (x86)\Microsof
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\stdarg.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared\winpackagefamily.h":
+
+C:\Users\Alex\Documents\alex-s-3d-world\level2.cpp:
 
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\smmintrin.h":
 
@@ -1272,6 +1778,8 @@ C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_audio.h:
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\errno.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\process.h":
+
+C:\Users\Alex\Documents\alex-s-3d-world\level1.h:
 
 C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_begin_code.h:
 
@@ -1439,18 +1947,6 @@ C:\Users\Alex\vcpkg\installed\x64-windows\include\SDL3\SDL_oldnames.h:
 
 C:\Users\Alex\Documents\alex-s-3d-world\vector3.h:
 
-C:\Users\Alex\Documents\alex-s-3d-world\projection.h:
-
-C:\Users\Alex\Documents\alex-s-3d-world\main.cpp:
-
-C:\Users\Alex\Documents\alex-s-3d-world\player.h:
-
-C:\Users\Alex\Documents\alex-s-3d-world\renderer3d.h:
-
-"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xatomic.h":
-
-C:\Users\Alex\Documents\alex-s-3d-world\cube.h:
-
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cmath":
 
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\yvals.h":
@@ -1490,6 +1986,24 @@ C:\Users\Alex\Documents\alex-s-3d-world\cube.h:
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\__msvc_bit_utils.hpp":
 
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\cstdint":
+
+C:\Users\Alex\Documents\alex-s-3d-world\projection.h:
+
+C:\Users\Alex\Documents\alex-s-3d-world\level1.cpp:
+
+C:\Users\Alex\Documents\alex-s-3d-world\renderer3d.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include\xatomic.h":
+
+C:\Users\Alex\Documents\alex-s-3d-world\cube.h:
+
+C:\Users\Alex\Documents\alex-s-3d-world\level2.h:
+
+C:\Users\Alex\Documents\alex-s-3d-world\main.cpp:
+
+C:\Users\Alex\Documents\alex-s-3d-world\player.h:
+
+C:\Users\Alex\Documents\alex-s-3d-world\level.h:
 
 C:\Users\Alex\Documents\alex-s-3d-world\player.cpp:
 
