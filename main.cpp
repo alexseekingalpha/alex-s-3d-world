@@ -3,6 +3,8 @@
 #include "renderer3d.h"
 #include "camera.h"
 #include "floor.h"
+#include "level1.h"
+#include "level2.h"
 #include <cmath>
 
 int main () { 
@@ -29,6 +31,8 @@ Cube cube;
 Camera camera;
 float cubeAngle = 0.0f;
 float cubeAngle2 = 0.0f;
+
+int currentLevel = 1;
 
 SDL_SetWindowRelativeMouseMode(window, true);
 
@@ -132,8 +136,15 @@ while (running) {
 
         Vector3 cubePosition = {5.0f, 0.0f, 0.0f};
 
-        drawCube(renderer, cube, cubeAngle, camera, cubePosition);
-        drawCube(renderer, cube, 0.0f, camera,{0.0f, 0.0f, 8.0f} );
+       // drawCube(renderer, cube, cubeAngle, camera, cubePosition);
+       // drawCube(renderer, cube, 0.0f, camera,{0.0f, 0.0f, 8.0f} );
+
+       if (currentLevel == 1) {
+            drawLevel1(renderer, camera);
+       }
+       else if (currentLevel == 2) {
+            drawLevel2(renderer, camera);
+       }
 
         SDL_RenderPresent(renderer);
     }

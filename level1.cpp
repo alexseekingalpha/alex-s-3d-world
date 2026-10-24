@@ -1,0 +1,17 @@
+#include "renderer3d.h"
+#include "level1.h"
+#include <SDL3/SDL.h>
+#include "camera.h"
+
+void drawLevel1(SDL_Renderer* renderer, const Camera& camera) {
+    Cube cube; 
+
+    float angle = 0.0f;
+    Vector3 position = {0.0f, 0.0f, 5.0f};
+
+    drawCube(renderer, cube, angle, camera, position);
+
+
+}
+
+
