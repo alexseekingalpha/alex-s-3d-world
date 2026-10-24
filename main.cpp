@@ -3,6 +3,7 @@
 #include "renderer3d.h"
 #include "camera.h"
 #include "floor.h"
+#include <cmath>
 
 int main () { 
     if (!SDL_Init(SDL_INIT_VIDEO)){
@@ -27,6 +28,7 @@ SDL_FRect rectangle = {100, 100, 200, 150};
 Cube cube;
 Camera camera;
 float cubeAngle = 0.0f;
+SDL_SetWindowRelativeMouseMode(window, true);
 
 bool running = true;
 
@@ -48,23 +50,71 @@ while (running) {
     if (event.type == SDL_EVENT_QUIT) {
         running = false;
         }
+        if (event.type == SDL_EVENT_MOUSE_MOTION) {
+            float sensitivity = 0.003f;
+
+            camera.yaw += event.motion.xrel * sensitivity;
+            camera.pitch -= event.motion.yrel * sensitivity;
+
+            if (camera.pitch > 1.5f)
+            camera.pitch = 1.5f;
+
+            if(camera.pitch < -1.5f)
+            camera.pitch = -1.5f;
+
+        }
+
+        if (event.type ==  SDL_EVENT_KEY_DOWN &&
+        event.key.scancode == SDL_SCANCODE_ESCAPE) {
+        running = false;
+        }
     }
     
     float cameraSpeed = 3.0f;
 
     const bool * keyboard = SDL_GetKeyboardState(nullptr);
 
-    if (keyboard[SDL_SCANCODE_W])
-        camera.position.z += cameraSpeed * deltaTime;
+    float forwardX = std::sin(camera.yaw);
+    float forwardZ = std::cos (camera.yaw);
 
-    if (keyboard[SDL_SCANCODE_S])
-        camera.position.z -= cameraSpeed * deltaTime;
+    float rightX = std::cos(camera.yaw);
+    float rightZ = -std::sin(camera.yaw);
 
-    if (keyboard[SDL_SCANCODE_A])
-        camera.position.x -= cameraSpeed * deltaTime;
-    
-    if (keyboard[SDL_SCANCODE_D])
-        camera.position.x += cameraSpeed * deltaTime;
+    float moveX = 0.0f;
+    float moveZ = 0.0f;
+
+    if(keyboard[SDL_SCANCODE_W]) {
+        moveX += forwardX;
+        moveZ += forwardZ;
+
+    }
+
+    if (keyboard[SDL_SCANCODE_D]) {
+        moveX += rightX;
+        moveZ += rightZ;
+    }
+
+    if (keyboard[SDL_SCANCODE_A]) {
+        moveX -= rightX;
+        moveZ -= rightZ;
+    }
+
+    if(keyboard[SDL_SCANCODE_S]) {
+        moveX -= forwardX;
+        moveZ -= forwardZ;
+        
+    }
+
+    //normalise diag monement
+    float moveLength = std::sqrt(moveX * moveX + moveZ * moveZ);
+
+    if (moveLength > 0.0f) {
+        moveX /= moveLength;
+        moveZ /= moveLength;
+    }
+
+    camera.position.x += moveX * cameraSpeed * deltaTime;
+    camera.position.z += moveZ * cameraSpeed * deltaTime;
         
 
     //movePlayer(rectangle, keyboard, speed, deltaTime, velocity);

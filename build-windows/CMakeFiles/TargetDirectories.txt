@@ -1,0 +1,3 @@
+C:/Users/Alex/Documents/alex-s-3d-world/build-windows/CMakeFiles/Alexs3DWorld.dir
+C:/Users/Alex/Documents/alex-s-3d-world/build-windows/CMakeFiles/edit_cache.dir
+C:/Users/Alex/Documents/alex-s-3d-world/build-windows/CMakeFiles/rebuild_cache.dir

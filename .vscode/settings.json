@@ -1,0 +1,10 @@
+{
+
+     "cmake.generator": "NMake Makefiles",
+    "cmake.buildDirectory": "${workspaceFolder}/build-windows",
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "C:/Users/Alex/vcpkg/scripts/buildsystems/vcpkg.cmake"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+
+}

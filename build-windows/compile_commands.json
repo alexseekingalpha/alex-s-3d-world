@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/Alex/Documents/alex-s-3d-world/build-windows",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\Alex\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\Alexs3DWorld.dir\\main.cpp.obj /FdCMakeFiles\\Alexs3DWorld.dir\\ /FS -c C:\\Users\\Alex\\Documents\\alex-s-3d-world\\main.cpp",
+  "file": "C:/Users/Alex/Documents/alex-s-3d-world/main.cpp",
+  "output": "CMakeFiles/Alexs3DWorld.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alex/Documents/alex-s-3d-world/build-windows",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\Alex\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\Alexs3DWorld.dir\\player.cpp.obj /FdCMakeFiles\\Alexs3DWorld.dir\\ /FS -c C:\\Users\\Alex\\Documents\\alex-s-3d-world\\player.cpp",
+  "file": "C:/Users/Alex/Documents/alex-s-3d-world/player.cpp",
+  "output": "CMakeFiles/Alexs3DWorld.dir/player.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alex/Documents/alex-s-3d-world/build-windows",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\Alex\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\Alexs3DWorld.dir\\renderer3d.cpp.obj /FdCMakeFiles\\Alexs3DWorld.dir\\ /FS -c C:\\Users\\Alex\\Documents\\alex-s-3d-world\\renderer3d.cpp",
+  "file": "C:/Users/Alex/Documents/alex-s-3d-world/renderer3d.cpp",
+  "output": "CMakeFiles/Alexs3DWorld.dir/renderer3d.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alex/Documents/alex-s-3d-world/build-windows",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\Alex\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\Alexs3DWorld.dir\\floor.cpp.obj /FdCMakeFiles\\Alexs3DWorld.dir\\ /FS -c C:\\Users\\Alex\\Documents\\alex-s-3d-world\\floor.cpp",
+  "file": "C:/Users/Alex/Documents/alex-s-3d-world/floor.cpp",
+  "output": "CMakeFiles/Alexs3DWorld.dir/floor.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alex/Documents/alex-s-3d-world/build-windows",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\Alex\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\Alexs3DWorld.dir\\projection.cpp.obj /FdCMakeFiles\\Alexs3DWorld.dir\\ /FS -c C:\\Users\\Alex\\Documents\\alex-s-3d-world\\projection.cpp",
+  "file": "C:/Users/Alex/Documents/alex-s-3d-world/projection.cpp",
+  "output": "CMakeFiles/Alexs3DWorld.dir/projection.cpp.obj"
+}
+]

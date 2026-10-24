@@ -17,25 +17,17 @@ void drawFloor(SDL_Renderer* renderer, const Camera& camera){
     // Draws lines runnign forwards and backwards 
     for (float x = -gridSize; x <= gridSize; x += spacing) {
 
-        Vector3 start = {x, groundY, camera.position.z + nearPlane + 0.01f};
-        Vector3 end = {x, groundY, camera.position.z + 30.0f};
+        Vector3 start = {x, groundY, -gridSize};
+        Vector3 end = {x, groundY, gridSize};
 
         SDL_FPoint screenStart;
         SDL_FPoint screenEnd;
 
-        bool startVisible = projectPoint(
-            start, camera, width, height, screenStart
-        );
-
-        bool endVisible = projectPoint(
-            end, camera, width, height, screenEnd
-        );
-
-        if (startVisible && endVisible) {
+        if (projectLine(start, end, camera, width, height, screenStart, screenEnd)) {
             SDL_RenderLine(
-                renderer,
-                screenStart.x, screenStart.y,
-                screenEnd.x, screenEnd.y 
+            renderer,
+            screenStart.x, screenStart.y,
+            screenEnd.x, screenEnd.y 
             );
         }
 
@@ -50,22 +42,15 @@ void drawFloor(SDL_Renderer* renderer, const Camera& camera){
         SDL_FPoint screenStart;
         SDL_FPoint screenEnd;
 
-        bool startVisible = projectPoint(
-            start, camera, width, height, screenStart
-        );
-
-        bool endVisible = projectPoint(
-            end, camera, width, height, screenEnd
-        );
-
-        if (startVisible && endVisible) {
-            SDL_RenderLine( 
-                renderer, 
+        if (projectLine(start, end, camera, width, height, screenStart, screenEnd)) {
+            SDL_RenderLine(
+                renderer,
                 screenStart.x, screenStart.y,
                 screenEnd.x, screenEnd.y 
             );
-        };
-        
+        }
+    
+
     }
 
 }

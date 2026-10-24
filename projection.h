@@ -11,3 +11,13 @@ bool projectPoint(
     int screenHeight,
     SDL_FPoint& result 
 );
+
+bool projectLine(
+    Vector3 start,
+    Vector3 end,
+    const Camera& camera,
+    int screenWidth,
+    int screenHeight,
+    SDL_FPoint& screenStart,
+    SDL_FPoint& screenEnd
+);
