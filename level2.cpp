@@ -9,7 +9,11 @@ void drawLevel2(SDL_Renderer* renderer, const Camera& camera) {
     float angle = 0.0f;
     Vector3 position = {0.0f, 0.0f, 5.0f};
 
-    drawCube(renderer, cube, angle, camera, position);
+    SDL_Color portalColour = {40, 130, 255, 255}; 
+
+    drawCube(renderer, cube, angle, camera, position, portalColour);
+
+    
 
 
 }

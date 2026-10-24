@@ -4,7 +4,7 @@
 #include <algorithm>
 #include <numeric> 
 
-void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camera& camera, Vector3 cubePosition) {
+void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camera& camera, Vector3 cubePosition, SDL_Color cubeColour) {
 
     SDL_FPoint screenPoints[8];
     bool visible[8];
@@ -102,10 +102,10 @@ void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camer
     float brightness = 0.2f + intensity * 0.8f;
 
     SDL_FColor colour = {
-        0.2f * brightness,
-        0.6f * brightness,
-        1.0f * brightness,
-        1.0f
+        (cubeColour.r / 255.0f) * brightness,
+        (cubeColour.g / 255.0f) * brightness,
+        (cubeColour.b / 255.0f) * brightness,
+        cubeColour.a / 255.0f
     };
 
     SDL_Vertex triangle[3] = {
