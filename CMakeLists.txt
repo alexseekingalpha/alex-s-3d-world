@@ -8,7 +8,8 @@ if(EMSCRIPTEN)
     set(CMAKE_EXECUTABLE_SUFFIX ".html" CACHE INTERNAL "")
 endif()
 
-add_executable(Alexs3DWorld main.cpp player.cpp renderer3d.cpp floor.cpp projection.cpp level1.cpp level2.cpp)
+add_executable(Alexs3DWorld main.cpp player.cpp renderer3d.cpp floor.cpp projection.cpp level1.cpp level2.cpp
+    collison.cpp)
 
 if(EMSCRIPTEN)
     add_subdirectory(vendored/SDL EXCLUDE_FROM_ALL)

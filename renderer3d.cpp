@@ -4,7 +4,7 @@
 #include <algorithm>
 #include <numeric> 
 
-void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camera& camera, Vector3 cubePosition, SDL_Color cubeColour) {
+void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camera& camera, Vector3 cubePosition, SDL_Color cubeColour, Vector3 cubeScale) {
 
     SDL_FPoint screenPoints[8];
     bool visible[8];
@@ -19,7 +19,11 @@ void drawCube(SDL_Renderer* renderer, const Cube& cube, float angle, const Camer
     for (int i = 0; i < 8; i++) {
         Vector3 vertex = cube.vertices[i];
 
-        float rotatedX = vertex.x * std::cos(angle) - vertex.z * std::sin(angle);
+        vertex.x *= cubeScale.x;
+        vertex.y *= cubeScale.y;
+        vertex.z *= cubeScale.z;
+
+        float rotatedX = vertex.x* std::cos(angle) - vertex.z * std::sin(angle);
         float rotatedZ = vertex.x * std::sin(angle) + vertex.z * std::cos(angle);
 
         Vector3 rotatedVertex = {
